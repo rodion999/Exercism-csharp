@@ -1,0 +1,14 @@
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\NucleotideCount.deps.json
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\NucleotideCount.runtimeconfig.json
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\NucleotideCount.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\NucleotideCount.dll
+E:\localhost\exercism\csharp\nucleotide-count\bin\Debug\netcoreapp2.0\NucleotideCount.pdb
+E:\localhost\exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.0\NucleotideCount.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.0\NucleotideCount.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.0\NucleotideCount.AssemblyInfo.cs
+E:\localhost\exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.0\NucleotideCount.dll
+E:\localhost\exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.0\NucleotideCount.pdb
+E:\localhost\exercism\csharp\nucleotide-count\obj\Debug\netcoreapp2.0\NucleotideCount.csprojResolveAssemblyReference.cache

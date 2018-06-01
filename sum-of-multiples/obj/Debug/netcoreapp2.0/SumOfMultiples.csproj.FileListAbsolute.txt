@@ -1,0 +1,14 @@
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.deps.json
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.runtimeconfig.json
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.dll
+E:\localhost\exercism\csharp\sum-of-multiples\bin\Debug\netcoreapp2.0\SumOfMultiples.pdb
+E:\localhost\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.AssemblyInfo.cs
+E:\localhost\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.dll
+E:\localhost\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.pdb
+E:\localhost\exercism\csharp\sum-of-multiples\obj\Debug\netcoreapp2.0\SumOfMultiples.csprojResolveAssemblyReference.cache

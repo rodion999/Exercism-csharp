@@ -1,0 +1,14 @@
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\Raindrops.deps.json
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\Raindrops.runtimeconfig.json
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\Raindrops.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\Raindrops.dll
+E:\localhost\exercism\csharp\raindrops\bin\Debug\netcoreapp2.0\Raindrops.pdb
+E:\localhost\exercism\csharp\raindrops\obj\Debug\netcoreapp2.0\Raindrops.csprojResolveAssemblyReference.cache
+E:\localhost\exercism\csharp\raindrops\obj\Debug\netcoreapp2.0\Raindrops.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\raindrops\obj\Debug\netcoreapp2.0\Raindrops.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\raindrops\obj\Debug\netcoreapp2.0\Raindrops.AssemblyInfo.cs
+E:\localhost\exercism\csharp\raindrops\obj\Debug\netcoreapp2.0\Raindrops.dll
+E:\localhost\exercism\csharp\raindrops\obj\Debug\netcoreapp2.0\Raindrops.pdb

@@ -1,0 +1,14 @@
+E:\localhost\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.AssemblyInfo.cs
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.deps.json
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.runtimeconfig.json
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.dll
+E:\localhost\exercism\csharp\bob\bin\Debug\netcoreapp2.0\Bob.pdb
+E:\localhost\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.dll
+E:\localhost\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.pdb
+E:\localhost\exercism\csharp\bob\obj\Debug\netcoreapp2.0\Bob.csprojResolveAssemblyReference.cache

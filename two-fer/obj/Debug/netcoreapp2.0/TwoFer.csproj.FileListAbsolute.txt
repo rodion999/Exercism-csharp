@@ -1,0 +1,13 @@
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\TwoFer.deps.json
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\TwoFer.runtimeconfig.json
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\TwoFer.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\TwoFer.dll
+E:\localhost\exercism\csharp\two-fer\bin\Debug\netcoreapp2.0\TwoFer.pdb
+E:\localhost\exercism\csharp\two-fer\obj\Debug\netcoreapp2.0\TwoFer.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\two-fer\obj\Debug\netcoreapp2.0\TwoFer.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\two-fer\obj\Debug\netcoreapp2.0\TwoFer.AssemblyInfo.cs
+E:\localhost\exercism\csharp\two-fer\obj\Debug\netcoreapp2.0\TwoFer.dll
+E:\localhost\exercism\csharp\two-fer\obj\Debug\netcoreapp2.0\TwoFer.pdb

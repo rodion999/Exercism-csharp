@@ -1,0 +1,13 @@
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\Accumulate.deps.json
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\Accumulate.runtimeconfig.json
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\Accumulate.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\Accumulate.dll
+E:\localhost\exercism\csharp\accumulate\bin\Debug\netcoreapp2.0\Accumulate.pdb
+E:\localhost\exercism\csharp\accumulate\obj\Debug\netcoreapp2.0\Accumulate.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\accumulate\obj\Debug\netcoreapp2.0\Accumulate.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\accumulate\obj\Debug\netcoreapp2.0\Accumulate.AssemblyInfo.cs
+E:\localhost\exercism\csharp\accumulate\obj\Debug\netcoreapp2.0\Accumulate.dll
+E:\localhost\exercism\csharp\accumulate\obj\Debug\netcoreapp2.0\Accumulate.pdb
