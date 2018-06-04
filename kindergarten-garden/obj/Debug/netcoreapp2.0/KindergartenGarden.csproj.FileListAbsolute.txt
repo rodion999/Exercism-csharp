@@ -1,0 +1,14 @@
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\KindergartenGarden.deps.json
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\KindergartenGarden.runtimeconfig.json
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\KindergartenGarden.runtimeconfig.dev.json
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\KindergartenGarden.dll
+E:\localhost\exercism\csharp\kindergarten-garden\bin\Debug\netcoreapp2.0\KindergartenGarden.pdb
+E:\localhost\exercism\csharp\kindergarten-garden\obj\Debug\netcoreapp2.0\KindergartenGarden.csprojResolveAssemblyReference.cache
+E:\localhost\exercism\csharp\kindergarten-garden\obj\Debug\netcoreapp2.0\KindergartenGarden.csproj.CoreCompileInputs.cache
+E:\localhost\exercism\csharp\kindergarten-garden\obj\Debug\netcoreapp2.0\KindergartenGarden.AssemblyInfoInputs.cache
+E:\localhost\exercism\csharp\kindergarten-garden\obj\Debug\netcoreapp2.0\KindergartenGarden.AssemblyInfo.cs
+E:\localhost\exercism\csharp\kindergarten-garden\obj\Debug\netcoreapp2.0\KindergartenGarden.dll
+E:\localhost\exercism\csharp\kindergarten-garden\obj\Debug\netcoreapp2.0\KindergartenGarden.pdb
